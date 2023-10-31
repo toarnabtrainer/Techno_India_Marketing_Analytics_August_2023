@@ -10,6 +10,9 @@ https://app.diagrams.net/?libs=general;uml#
 **Tutorial on The segmentation, targeting, positioning (STP) marketing model:**<br>
 https://www.smartinsights.com/digital-marketing-strategy/customer-segmentation-targeting/segmentation-targeting-and-positioning/
 
+**Tutorial on Pricing Analytics:**<br>
+https://dealhub.io/glossary/pricing-analytics/
+
 **MS-Office/O365 Reference Tutorial Links -**<br>
 * **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
 * **MS-Office 2010:** https://edu.gcfglobal.org/en/topics/office2010/
